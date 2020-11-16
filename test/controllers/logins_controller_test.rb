@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class GamesControllerTest < ActionDispatch::IntegrationTest
+class LoginsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
